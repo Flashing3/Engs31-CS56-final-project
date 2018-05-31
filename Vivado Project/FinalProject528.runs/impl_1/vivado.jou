@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.3.1 (64-bit)
+# SW Build 2035080 on Fri Oct 20 14:20:01 MDT 2017
+# IP Build 2034413 on Fri Oct 20 15:56:25 MDT 2017
+# Start of session at: Wed May 30 18:27:31 2018
+# Process ID: 16108
+# Current directory: O:/ENGS31/Demo/FinalProject528/FinalProject528.runs/impl_1
+# Command line: vivado.exe -log Lab5.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Lab5.tcl -notrace
+# Log file: O:/ENGS31/Demo/FinalProject528/FinalProject528.runs/impl_1/Lab5.vdi
+# Journal file: O:/ENGS31/Demo/FinalProject528/FinalProject528.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Lab5.tcl -notrace
