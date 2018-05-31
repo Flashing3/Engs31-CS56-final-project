@@ -2,8 +2,12 @@
 
 ## Engineers:
  
-Junfei Yu Junfei.Yu.TH@dartmouth.edu
-Suchen Shi Suchen.Shi.UG@dartmouth.edu
+
+ - Junfei Yu Junfei.Yu.TH@dartmouth.edu
+ - Suchen Shi Suchen.Shi.UG@dartmouth.edu
+
+
+
 
 ## "Chinese Music MIDI Pad"
 
